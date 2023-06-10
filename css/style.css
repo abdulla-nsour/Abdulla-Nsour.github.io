@@ -919,6 +919,11 @@ a:focus {
     background: #222222;
 }
 
+.contact .content-inner  {
+
+    background: url(../img/Dark.png) right bottom no-repeat;
+    background-size: contain;
+}
 .contact .form {
     position: relative;
     width: 100%;
