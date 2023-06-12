@@ -195,8 +195,7 @@ a:focus {
         width: 300px;
         position: fixed;
         bottom: 0;
-        padding: 15px;
-        padding-bottom: 55px;
+        padding-bottom: 1%;
         font-size: 0;
         text-align: center;
         background: #222222;
@@ -819,10 +818,10 @@ a:focus {
     right: 0;
     top: 100%;
     padding: 30px 10px;
-    color: #222222;
+    color: #ffffff;
     font-size: 16px;
     font-weight: 600;
-    background: #91b375;
+    background: #383838;
     border-radius: 0;
 }
 
@@ -884,7 +883,7 @@ a:focus {
 }
 
 .contact .contact-info p a {
-    color: #666666;
+    color: #000000;
 }
 
 .contact .contact-info p a:hover {
