@@ -987,16 +987,3 @@ a:focus {
     color: #222222;
 }
 
- /* Hide laptop link on phones */
- @media (max-width: 768px) {
-    .link-preview {
-      display: none;
-    }
-  }
-  
-  /* Hide phone link on laptops */
-  @media (min-width: 769px) {
-    .link-previews {
-      display: none;
-    }
-  }
