@@ -330,6 +330,7 @@ a:focus {
     background-size: contain;
 }
 
+
 .header p {
     color: #02A282;
     font-size: 22px;
@@ -918,11 +919,7 @@ a:focus {
     background: #222222;
 }
 
-.contact .content-inner  {
 
-    background: url(../img/Dark.png) right bottom no-repeat;
-    background-size: contain;
-}
 .contact .form {
     position: relative;
     width: 100%;
@@ -951,6 +948,14 @@ a:focus {
 }
 
 
+.badge {
+    font-size: 18px;
+    background-color: #222221;
+    color: #02A282;
+    border-radius: 0px;
+}
+
+
 /**********************************/
 /*********** Footer CSS ***********/
 /**********************************/
@@ -965,7 +970,7 @@ a:focus {
     text-align: right;
 }
 
-@media(max-width: 767.98px) {
+@media(max-width: 780px) {
 
     .footer .col-md-6,
     .footer .col-md-6:last-child {
