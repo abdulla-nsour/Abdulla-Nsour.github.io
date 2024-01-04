@@ -350,6 +350,11 @@ a:focus {
     /* background-color: #014550; */
     padding: 3svh 30px;
 }
+.content-inner.s6{
+    background-size: contain;
+    /* background-color: #014550; */
+    padding: 0svh 0px;
+}
 
 .header p {
     color: #02A282;
@@ -456,7 +461,7 @@ a:focus {
 /**********************************/
 .about {
     position: relative;
-    padding: 3svh 30px;
+    padding: 3svh 0px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -530,7 +535,7 @@ a:focus {
 /**********************************/
 .education {
     position: relative;
-    padding: 3svh 30px;
+    padding: 3svh 0px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -603,7 +608,7 @@ a:focus {
 /**********************************/
 .experience {
     position: relative;
-    padding: 3svh 30px;
+    padding: 3svh 0px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -690,7 +695,7 @@ a:focus {
 /**********************************/
 .service {
     position: relative;
-    padding: 3svh 30px;
+    padding: 3svh 0px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -737,7 +742,7 @@ a:focus {
 /**********************************/
 .portfolio {
     position: relative;
-    padding: 3svh 30px;
+    padding: 3svh 0px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -887,7 +892,7 @@ a:focus {
 /**********************************/
 .contact {
     position: relative;
-    padding: 3svh 30px;
+    padding: 3svh 0px;
     background: #ffffff;
 }
 
