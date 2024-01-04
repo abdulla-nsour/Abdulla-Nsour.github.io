@@ -436,7 +436,7 @@ a:focus {
 /**********************************/
 .about {
     position: relative;
-    padding: 60px 30px;
+    padding: 3svh 30px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -504,7 +504,7 @@ a:focus {
 /**********************************/
 .education {
     position: relative;
-    padding: 60px 30px;
+    padding: 3svh 30px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -577,7 +577,7 @@ a:focus {
 /**********************************/
 .experience {
     position: relative;
-    padding: 60px 30px;
+    padding: 3svh 30px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -664,7 +664,7 @@ a:focus {
 /**********************************/
 .service {
     position: relative;
-    padding: 60px 30px 30px 30px;
+    padding: 3svh 30px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -711,7 +711,7 @@ a:focus {
 /**********************************/
 .portfolio {
     position: relative;
-    padding: 60px 30px 30px 30px;
+    padding: 3svh 30px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
@@ -861,7 +861,7 @@ a:focus {
 /**********************************/
 .contact {
     position: relative;
-    padding: 60px 30px 30px 30px;
+    padding: 3svh 30px;
     background: #ffffff;
 }
 
