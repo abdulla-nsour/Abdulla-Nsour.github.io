@@ -329,11 +329,27 @@ a:focus {
     background: #ffffff;
 }
 
-.header .content-inner {
+.content-inner {
     padding: 3svh 30px;
     background-size: contain;
 }
 
+.content-inner.s3{
+    background-size: contain;
+    /* background-color: #014550; */
+    padding: 0px 0px 0px 0px;
+}
+
+.content-inner.S4{
+    background-size: contain;
+    /* background-color: #014550; */
+    padding: 0px 0px 0px 0px;
+}
+.content-inner.S5{
+    background-size: contain;
+    /* background-color: #014550; */
+    padding: 3svh 30px;
+}
 
 .header p {
     color: #02A282;
@@ -441,6 +457,12 @@ a:focus {
 .about {
     position: relative;
     padding: 3svh 30px;
+    background: #ffffff;
+    border-bottom: 30px solid #014550;
+}
+.feedback {
+    position: relative;
+    padding: 3svh 0px;
     background: #ffffff;
     border-bottom: 30px solid #014550;
 }
