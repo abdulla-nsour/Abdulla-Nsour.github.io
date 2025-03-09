@@ -12,7 +12,7 @@
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
 
-
+    <link href="img/AlmuradTeck.webp" rel="icon" type="img/webp"  >
     <!-- <link href="lib/slick/slick.css" rel="stylesheet"> -->
     <link href="css/lightbox.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -22,7 +22,13 @@
     <div class="wrapper">
         <div class="sidebar">
             <div class="sidebar-header">
-                <img src="img/about.webp" alt="Image">
+                <img 
+                    src="img/about.webp" 
+                    sizes="(max-width: 480px) 100vw, (max-width: 768px) 50vw, 1200px"
+                    alt="Image" 
+                    loading="lazy"
+                    width="100%" 
+                    height="auto">
             </div>
             <div class="sidebar-content">
                 <nav class="navbar navbar-expand-md bg-dark navbar-dark">
@@ -103,9 +109,9 @@
                             <div class="contact-info">
                                 <p><i class="fa fa-tag"></i>Automation & NoCode Developer</p>
                                 <p><i class="fa fa-envelope"></i>abdulla.TariqN@gmail.com</p>
-                                <p><a href="https://wa.me/962778033751" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #25D366; color: white; text-decoration: none; border-radius: 5px;">
+                                <div class="form"><a href="https://wa.me/962778033751" target="_blank" class="btn" style="font-weight: bold;" >
                                     Contact me on WhatsApp
-                                </a></p>
+                                 </a></div>
                                 
                                 <div class="form">
 
