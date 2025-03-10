@@ -45,7 +45,7 @@ a:focus {
 .wrapper .content {
     position: relative;
     width: 100%;
-    padding: 15px;
+    padding: 10px;
     float: left;
     background: #014550;
 }
@@ -103,7 +103,7 @@ a:focus {
 
 @media (min-width: 768px) {
     .wrapper .content {
-        padding: 30px 0px 30px 30px;
+        padding: 15px 0px 15px 15px;
     }
 
     .wrapper .content::before,
@@ -260,7 +260,7 @@ a:focus {
 
 @media (max-width: 576px) {
     .wrapper .content {
-        padding: 15px;
+        padding: 7px;
     }
 }
 
@@ -330,7 +330,7 @@ a:focus {
 }
 
 .content-inner {
-    padding: 3svh 30px;
+    padding: 1svh 20px;
     background-size: contain;
 }
 
@@ -348,7 +348,7 @@ a:focus {
 .content-inner.S5{
     background-size: contain;
     /* background-color: #014550; */
-    padding: 3svh 30px;
+    padding: 1svh 20px;
 }
 .content-inner.s6{
     background-size: contain;
@@ -703,7 +703,7 @@ a:focus {
 .service .srv-col {
     position: relative;
     width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .service .srv-col i {
